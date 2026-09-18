@@ -1,14 +1,9 @@
-<div align="center">
+![Luke Son — Building useful things. Learning in public.](assets/header.svg)
 
-### Luke Son
+Hi, I'm **Luke** 👋
 
-<sub>Open source contributor</sub>
+I build software, explore AI-assisted development, and contribute to open source tools I enjoy using.
 
-<br />
-<br />
-
-<a href="https://github.com/nestjs/nest/pulls?q=is%3Apr+is%3Amerged+author%3AKAPUIST"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS contributions" /></a>
+<a href="https://github.com/nestjs/nest/pulls?q=is%3Apr+is%3Amerged+author%3AKAPUIST"><img src="https://img.shields.io/badge/NestJS-Contributor-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white&amp;labelColor=182e40" alt="NestJS contributor" /></a>
 &nbsp;
-<a href="https://github.com/stablyai/orca/pulls?q=is%3Apr+is%3Amerged+author%3AKAPUIST"><img src="https://img.shields.io/badge/Orca-153D46?style=for-the-badge" alt="Orca contributions" /></a>
-
-</div>
+<a href="https://github.com/stablyai/orca/pulls?q=is%3Apr+is%3Amerged+author%3AKAPUIST"><img src="https://img.shields.io/badge/Orca-Contributor-83d9be?style=flat-square&amp;labelColor=182e40" alt="Orca contributor" /></a>
